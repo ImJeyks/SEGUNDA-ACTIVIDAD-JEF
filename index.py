@@ -13,5 +13,7 @@ else:
 
 print("Hola" +name +", su edad es "+edad+ " años, usted es "+ categoria)
 
+print (peso)
+
 
 
